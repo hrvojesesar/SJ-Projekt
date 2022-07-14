@@ -1,1 +1,1 @@
-# SJ_Projekt
+Desktop Aplikacija za bilježenje kontakata
