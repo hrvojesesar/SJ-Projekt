@@ -1,1 +1,1 @@
-Desktop Aplikacija za bilježenje kontakata
+Projekt iz kolegija Skriptni jezici - Desktop Aplikacija za bilježenje kontakata
